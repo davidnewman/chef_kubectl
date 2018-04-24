@@ -4,7 +4,7 @@ maintainer_email 'newman.de+kubectl@gmail.com'
 license 'MIT'
 description 'Installs/Configures kubectl'
 long_description 'Installs/Configures kubectl'
-version '0.1.1'
+version '0.1.2'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 supports 'windows'
 supports 'mac_os_x'
